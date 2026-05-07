@@ -1,21 +1,49 @@
-<<<<<<< HEAD
-# budgetapp
+A cross-platform budget management application built using Flutter and Firebase that helps users track expenses, manage budgets, and monitor financial activities efficiently.
 
-A new Flutter project.
+🚀 Features
+🔐 Firebase Authentication (Login & Signup)
+📊 Expense & Budget Tracking
+🌐 REST API Integration
+⚡ Riverpod State Management
+📱 Responsive Cross-Platform UI
+☁️ Real-time Firebase Integration
+🛠 Tech Stack
+Flutter
+Dart
+Firebase Authentication
+REST APIs
+Riverpod
+Material UI
+📂 Project Structure
+lib/
+ ├── models/
+ ├── screens/
+ ├── services/
+ ├── providers/
+ ├── widgets/
+ └── main.dart
+⚙️ Installation
+Clone the repository
+git clone https://github.com/amanneekhra/Budget-App.git
+Navigate to project folder
+cd Budget-App
+Install dependencies
+flutter pub get
+Run the project
+flutter run
+🔑 Firebase Setup
+Create a Firebase project
+Enable Authentication
+Add google-services.json for Android
+Configure Firebase for iOS if needed
+📸 Screenshots
 
-## Getting Started
+Add your app screenshots here.
 
-This project is a starting point for a Flutter application.
+🤝 Contributing
 
-A few resources to get you started if this is your first Flutter project:
+Pull requests are welcome. For major changes, please open an issue first to discuss improvements.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+📄 License
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Budget-App
->>>>>>> 2709a6790a3308b733d4deb635f90a4562a6d8b1
+This project is open-source and available under the MIT License.
